@@ -1,4 +1,4 @@
-site url: [https://bbballs.github.io/hillside_hermitage_archive/](https://bbballs.github.io/hillside_hermitage_archive/)
+site url: [https://dpm24800.github.io/hillside-hermitage-archive/](https://dpm24800.github.io/hillside-hermitage-archive/)
 
 This repository is not affiliated with Hillside Hermitage. I appreaciate the teachings of Ajahn Nyanamoli Thero, and have collected and orginized this archive for my own use. It has been made public with assumption others may appeciate the archive as well.
 
