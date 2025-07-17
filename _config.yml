@@ -44,6 +44,8 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
+ordered_collections:
+  - pages
 
 page_width: 800px
 
